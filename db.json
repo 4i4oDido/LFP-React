@@ -1,0 +1,43 @@
+{
+  "gameResults": [
+    {
+      "id": 1,
+      "date": "12.11.2019",
+      "hour": "19:00",
+      "homeTeam": {
+        "name": "LOSC",
+        "score": 2
+      },
+      "awayTeam": {
+        "name": "Bordoux",
+        "score": 1
+      }
+    },
+    {
+      "id": 2,
+      "date": "12.11.2019",
+      "hour": "19:00",
+      "homeTeam": {
+        "name": "FC Metz",
+        "score": 0
+      },
+      "awayTeam": {
+        "name": "Paris SG",
+        "score": 1
+      }
+    },
+    {
+      "id": 3,
+      "date": "12.11.2019",
+      "hour": "19:00",
+      "homeTeam": {
+        "name": "FC Metz",
+        "score": 4
+      },
+      "awayTeam": {
+        "name": "Paris SG",
+        "score": 2
+      }
+    }
+  ]
+}
