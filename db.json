@@ -226,5 +226,21 @@
       "name": "TOULOUSE FC",
       "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/1819-tfc.png"
     }
+  ],
+  "mainSlider": [
+    {
+      "imgUrl": "https://bgfootball.com/pictures/pic_big/photo/06121121074.jpg",
+      "title": "Quisque eget odio elementum, eleifend turpis sit amet, posuere lectus.",
+      "caption": "Proin accumsan ante nulla."
+    },
+    {
+      "imgUrl": "https://bgfootball.com/pictures/pic_big/photo/06021052288.jpg",
+      "title": "Cras interdum ornare sapien, eget eleifend arcu. Sed at sem mi.",
+      "caption": "condimentum dui ac venenatis."
+    }, {
+      "imgUrl": "http://bgfootball.com/pic.php?id=92622",
+      "title": "In lobortis eget elit vitae rhoncus. Nunc ex nibh, vehicula id mi eu",
+      "caption": "vestibulum aliquet purus"
+    }
   ]
 }

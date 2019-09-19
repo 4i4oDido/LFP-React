@@ -4,6 +4,7 @@ import Scorebar from './Scorebar/Scorebar';
 import Logo from './Logo/Logo';
 import MenuToggler from './MenuToggler/MenuToggler';
 import SearchButton from './Search/SearchButton';
+import './Header.css';
 
 class Header extends Component {
 
@@ -21,19 +22,21 @@ class Header extends Component {
                 <Container>
                     <Logo />
                     <div className="header-row">
-                        <div className="inline-block">{this.props.leagueName}</div>
+                        <div className="inline-block league-name">{this.props.leagueName}</div>
                         <Scorebar/>
                     </div>
                 </Container>
-                <div className="header-row main-bg">
+                <div className="main-bg">
                     <Container>
-                        <MenuToggler btnClicked={this.menuTogglerHandler}/>
-                        <SearchButton btnClicked={this.searchButtonHandler}/>
+                        <div className="header-row">
+                            <MenuToggler btnClicked={this.menuTogglerHandler}/>
+                            <SearchButton btnClicked={this.searchButtonHandler}/>
+                        </div>
                     </Container>
                 </div>
             </header>
         )
     }
-};
+}
 
 export default Header;

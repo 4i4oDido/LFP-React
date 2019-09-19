@@ -22,7 +22,7 @@ class Scorebar extends Component {
 
     render() {
         const settings = {
-            dots: true,
+            arrows: true,
             infinite: true,
             speed: 500,
             slidesToShow: 5,
@@ -42,9 +42,11 @@ class Scorebar extends Component {
             />
         })
         return (
-            <Slider {...settings}>
-                {gamePanel}
-            </Slider>
+            <div className="Scorebar inline-block">
+                <Slider {...settings}>
+                    {gamePanel}
+                </Slider>
+            </div>
         )
     }
 }
