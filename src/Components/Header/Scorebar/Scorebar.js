@@ -18,9 +18,11 @@ class Scorebar extends Component {
 
     render() {
         const gamePanel = this.state.gameResults.map(item => {
-            return <GameResult
+            return <GameResult key={item.id}
                 date={item.date}
                 hour={item.hour}
+                homeTeamlogo={item.homeTeam.logo}
+                awayTeamlogo={item.awayTeam.logo}
                 homeTeamName={item.homeTeam.name}
                 homeTeamScore={item.homeTeam.score}
                 awayTeamName={item.awayTeam.name}
