@@ -1,0 +1,15 @@
+.Scorebar {
+    display: inline-block;
+}
+.GameResult {
+    display: inline-block;
+    width: 20%;
+}
+.Team {
+
+}
+.Team img {
+    width: 20px;
+    height: auto;
+    display: inline-block;
+}

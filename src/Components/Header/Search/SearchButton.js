@@ -1,8 +1,12 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faSearch } from '@fortawesome/free-solid-svg-icons';
 
-const SearchButton = ()=> {
+const SearchButton = (props)=> {
     return (
-        <div className="SearchButton"></div>
+        <div className="SearchButton" onClick={props.btnClicked}>
+            <FontAwesomeIcon icon={faSearch} />
+        </div>
     )
 }
 
