@@ -25,7 +25,8 @@
         "score": 0
       },
       "awayTeam": {
-        "name": "Paris SG",
+        "name": "MONTPELLIER ",
+        "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/500099.png"
         "score": 1
       }
     },
@@ -34,11 +35,13 @@
       "date": "12.11.2019",
       "hour": "19:00",
       "homeTeam": {
-        "name": "FC Metz",
+        "name": "DIJON",
+        "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/547450.png"
         "score": 4
       },
       "awayTeam": {
-        "name": "Paris SG",
+        "name": "PARIS SAINT-GERMAIN",
+        "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/PSG_logo.png"
         "score": 2
       }
     }
