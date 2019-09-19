@@ -3,8 +3,6 @@ import axios from 'axios';
 import GameResult from './GameResult';
 
 class Scorebar extends Component {
-
-
     state = {
         gameResults: []
     };
@@ -13,7 +11,7 @@ class Scorebar extends Component {
         axios.get('http://my-json-server.typicode.com/4i4oDido/LFP-React/db')
             .then((res)=>{
                 this.setState({
-                    gameResults: res.data.game-results
+                    gameResults: res.data.gameResults
                 })
             })
     }

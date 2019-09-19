@@ -6,10 +6,12 @@
       "hour": "19:00",
       "homeTeam": {
         "name": "LOSC",
+        "logo": "",
         "score": 2
       },
       "awayTeam": {
-        "name": "Bordoux",
+        "name": "BORDEAUX",
+        "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/500211.png",
         "score": 1
       }
     },
@@ -38,6 +40,20 @@
         "name": "Paris SG",
         "score": 2
       }
+    }
+  ],
+  "teams": [
+    {
+      "name": "Amiens SC",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/1920-amiens-sc.png"
+    },
+    {
+      "name": "ANGERS SCO",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/1920-angers-sco.png"
+    },
+    {
+      "name": "BORDEAUX",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/500211.png"
     }
   ]
 }
