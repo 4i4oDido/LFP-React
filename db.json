@@ -5,8 +5,8 @@
       "date": "12.11.2019",
       "hour": "19:00",
       "homeTeam": {
-        "name": "LOSC",
-        "logo": "",
+        "name": "OLYMPIQUE LYONNAIS",
+        "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/500080.png",
         "score": 2
       },
       "awayTeam": {
@@ -20,7 +20,8 @@
       "date": "12.11.2019",
       "hour": "19:00",
       "homeTeam": {
-        "name": "FC Metz",
+        "name": "Amiens SC",
+        "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/1920-amiens-sc.png"
         "score": 0
       },
       "awayTeam": {
@@ -54,6 +55,74 @@
     {
       "name": "BORDEAUX",
       "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/500211.png"
+    },
+    {
+      "name": "BRESTOIS 29",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/500024.png"
+    },
+    {
+      "name": "DIJON",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/547450.png"
+    },
+    {
+      "name": "LOSC",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/1819-losc.png"
+    },
+    {
+      "name": "OLYMPIQUE LYONNAIS",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/500080.png"
+    },
+    {
+      "name": "OLYMPIQUE DE MARSEILLE",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/500083.png"
+    },
+    {
+      "name": "FC DE METZ",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/logo_metz_500154.png"
+    },
+    {
+      "name": "AS MONACO",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/Monaco_AS.png"
+    },
+    {
+      "name": "MONTPELLIER ",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/500099.png"
+    },
+    {
+      "name": "FC NANTES",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/fcnantes.png"
+    },
+    {
+      "name": "OGC NICE",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/logo_nice_100.png"
+    },
+    {
+      "name": "NIMES OLYMPIQUE",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/1817-no.png"
+    },
+    {
+      "name": "PARIS SAINT-GERMAIN",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/PSG_logo.png"
+    },
+    {
+      "name": "STADE DE REIMS",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/Stade_reims.png"
+    },
+    {
+      "name": "RENNAIS FC",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/500015.png"
+    },
+    {
+      "name": "AS SAINT-ETIENNE",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/1819-asse-logo.png"
+    },
+    {
+      "name": "STRASBOURG",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/500191_100.png"
+    },
+    {
+      "name": "TOULOUSE FC",
+      "logo": "https://www.lfp.fr/images/photos/clubs/logo/grand/1819-tfc.png"
     }
   ]
 }
